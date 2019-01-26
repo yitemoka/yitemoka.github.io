@@ -1,0 +1,2 @@
+# smiththeawesome
+Website for SmithTheAwesome
